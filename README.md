@@ -1,1 +1,1 @@
-# Monty-Hall-Simulation
+# Monty Hall Simulation
